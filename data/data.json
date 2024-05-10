@@ -1,0 +1,52 @@
+{
+    "version": 1.0,
+    "default_author": "Example_Name",
+    "comment": "For christ's sake, this is not where you put your fairy tale genders; it will break shit!",
+    "genders": [
+        "gender_male",
+        "gender_female"
+    ],
+    "subraces": [
+        "subrace_angel",
+        "subrace_demonkin",
+        "subrace_demon",
+        "subrace_dragonkin",
+        "subrace_drow",
+        "subrace_elf",
+        "subrace_fairy",
+        "subrace_humandesert",
+        "subrace_humankingdom",
+        "subrace_humansea",
+        "subrace_humanvale",
+        "subrace_kobold",
+        "subrace_lizardkin",
+        "subrace_neko",
+        "subrace_orc",
+        "subrace_tigerkin",
+        "subrace_werewolf"
+    ],
+    "roles": [
+        "bg_adventurer",
+        "bg_assassin",
+        "bg_clerk",
+        "bg_courtesan",
+        "bg_foodworker",
+        "bg_healer",
+        "bg_hunter",
+        "bg_knight",
+        "bg_mercenary",
+        "bg_metalworker",
+        "bg_monk",
+        "bg_mystic",
+        "bg_mythical",
+        "bg_noble",
+        "bg_pirate",
+        "bg_priest",
+        "bg_raider",
+        "bg_seaman",
+        "bg_slaver",
+        "bg_thief",
+        "bg_thug",
+        "bg_woodsman"
+    ]
+}
